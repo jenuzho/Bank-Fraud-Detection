@@ -1,3 +1,2 @@
-__pycache__
-.env
-.learn
+src/FraudCatcher_borrar.ipynb
+src/bank-account-fraud-dataset-neurips-2022.zip
